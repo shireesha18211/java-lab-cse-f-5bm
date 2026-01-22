@@ -1,4 +1,4 @@
-<img width="1161" height="479" alt="2a output" src="https://github.com/user-attachments/assets/f6da7de3-0d57-44c4-adfa-f8858394126e" />#experiment2
+# experiment2
 ## TITLE: 2a.) Implement class mechanism in java 
 ```
 class myclass {
