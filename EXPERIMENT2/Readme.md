@@ -1,4 +1,4 @@
-# experiment2
+<img width="456" height="243" alt="Screenshot 2026-01-22 at 2 25 59 PM" src="https://github.com/user-attachments/assets/17617d4c-22e1-451a-b5f0-228a31a62f6a" /><img width="456" height="243" alt="Screenshot 2026-01-22 at 2 25 59 PM" src="https://github.com/user-attachments/assets/6cb3655d-437e-49ef-a816-1b791c08becf" /># experiment2
 ## TITLE: 2a.) Implement class mechanism in java 
 ```
 class myclass {
@@ -47,3 +47,6 @@ System.out.println("Result of adding three integers: " + sum3);
 ```
 # output
 <img width="1438" height="403" alt="2b output" src="https://github.com/user-attachments/assets/f3a658b0-9a6e-4d64-a12c-01b26c557aa6" />
+
+
+
