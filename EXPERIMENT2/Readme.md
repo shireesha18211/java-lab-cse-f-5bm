@@ -1,4 +1,4 @@
-<img width="456" height="243" alt="Screenshot 2026-01-22 at 2 25 59 PM" src="https://github.com/user-attachments/assets/17617d4c-22e1-451a-b5f0-228a31a62f6a" /><img width="456" height="243" alt="Screenshot 2026-01-22 at 2 25 59 PM" src="https://github.com/user-attachments/assets/6cb3655d-437e-49ef-a816-1b791c08becf" /># experiment2
+# experiment2
 ## TITLE: 2a.) Implement class mechanism in java 
 ```
 class myclass {
@@ -47,6 +47,36 @@ System.out.println("Result of adding three integers: " + sum3);
 ```
 # output
 <img width="1438" height="403" alt="2b output" src="https://github.com/user-attachments/assets/f3a658b0-9a6e-4d64-a12c-01b26c557aa6" />
+
+
+
+# expeiment2c
+## TITLE: 2c.) java program implement constructor
+```
+class Student {
+String name;
+int age;
+int marks;
+Student (String n, int a, int m) {
+name = n;
+age = a;
+marks = m;
+}
+void display ( ) {
+System.out.println ("Name: " + name);
+System.out.println ("Age: " + age);
+System.out.println ("Marks: " + marks);
+}
+public static void main(String[] args) {
+Student S1 = new Student ("Alice", 20, 85);
+S1.display ( );
+}
+}
+```
+# output
+<img width="427" height="194" alt=" 2c output  java" src="https://github.com/user-attachments/assets/950078dd-12f4-4e12-8e39-1f97c23d585f" />
+
+
 
 
 
